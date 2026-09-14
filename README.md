@@ -1,24 +1,27 @@
-## Hi, I'm Alex
+# Hi, I'm Alex
 
 ### Application Developer Apprentice • Software Development Student • Aspiring Software Engineer
 
-I'm an Application Developer Apprentice with **CNM ITS - Web Applications** and a student at **New Mexico State University**, where I'm pursuing a bachelor's degree in **Information and Communication Technology - Software Development**. 
+I'm an **Application Developer Apprentice on the CNM ITS – Web Applications team**.
 
-I earned my **Computer Programming AAS** from Central New Mexico Community College, along with a **Software Development certificate**. CNM's Computer Programming program was later renamed Software Development.
+Most of my experience has been working on internal web applications, backend services, APIs, databases, data processing, and helping get applications deployed and running.
+I'm also studying **ICT – Software Development at New Mexico State University**. Before NMSU, I earned my **Computer Programming AAS** and **Software Development Certificate** from CNM. The Computer Programming program was renamed Software Development after I graduated.
 
-I enjoy building **full-stack applications, web applications, backend services, APIs, and data-driven systems**, while continuing to grow my skills in software architecture, database, testing, deployment, and machine learning.
+I like learning by building things. Most of what I'm working on now is focused on backend and full-stack development, software architecture, databases, testing, Docker, and eventually machine learning.
 
 ---
 
-##  👨‍💻 About Me
+## 👨‍💻 About Me
+
 - 💼 Application Developer Apprentice with **CNM ITS – Web Applications**
 - 🎓 Studying **ICT – Software Development at NMSU**
-- 🎓 **Computer Programming AAS** from CNM
-- 📜 **Software Development Certificate** from CNM
 - 🛡️ **CompTIA Security+** certified
-- 🌐 Interested in **full-stack and backend software development**
-- 🧠 Currently learning more about **software architecture, APIs, databases, Docker, testing, and machine learning**
-- 🚀 Career goal: **Software Engineer**
+- 🌐 Mostly interested in **backend, full-stack, and application development**
+- 🚀 My long-term goal is to become a **Software Engineer**
+
+---
+
+## 🛠️ Languages & Technologies
 
 ### 💻 Languages
 
@@ -51,6 +54,7 @@ I enjoy building **full-stack applications, web applications, backend services, 
 </p>
 
 **Jakarta EE • Spring Boot • FastAPI • Node.js • Express • React • REST APIs**
+
 ### 🗄️ Databases & Data
 
 <p align="left">
@@ -97,20 +101,12 @@ I enjoy building **full-stack applications, web applications, backend services, 
 
 ## 🧠 What I Know
 
-My background is focused on application and software development, with experience
-working across the full application lifecycle from backend logic and APIs to
-databases, deployment, and testing.
+Most of my experience is in application development. I've worked on the Backend, Frontend, databases, deployment, and some of the infrastructure around the applications I've helped build.
+I'm comfortable working with object-oriented programming and concepts like classes, inheritance, interfaces, polymorphism, and separating responsibilities between different parts of an application.
+On the backend I've worked with REST APIs, business logic, validation, databases, service layers, and data processing. I've also worked with React on the Frontend and connecting the UI back to APIs.
+I've spent a lot of time working with Linux, NGINX, WildFly, Jenkins, and PM2 while helping deploy and troubleshoot applications. Python has also been useful for cleaning data and automating workflows.Testing is something I've been putting more focus into as I've gained experience. I've used JUnit and Mockito with Java, and I'm currently using pytest, coverage, Ruff, mypy, and Bandit with Python.
 
-- **Object-Oriented Programming** – classes, inheritance, polymorphism, interfaces, encapsulation, and separation of concerns
-- **Backend Development** – REST APIs, service layers, validation, business logic, and application architecture
-- **Frontend Development** – React, component-based UI development, forms, API integration, and responsive interfaces
-- **Database Development** – relational and document databases, CRUD operations, data modeling, queries, and persistence layers
-- **Software Architecture** – layered architecture, separation of responsibilities, modular application design, and maintainable project structure
-- **Testing & Code Quality** – unit testing, mocking, integration testing, coverage, linting, static typing, and security scanning
-- **Deployment & Operations** – Linux, NGINX, WildFly, Docker, Jenkins, process management, and application troubleshooting
-- **Data Processing & Automation** – Python scripting, data cleaning, scheduled workflows, and automated pipelines
-- **Security Fundamentals** – application security concepts, secure API practices, authentication concepts, CORS, rate limiting, and common web vulnerabilities
-
+I also have my **Security+**, so application security is something I try to keep in mind while developing. I've worked with things like CORS, rate limiting, security headers, authentication concepts, and researching common web vulnerabilities.
 
 ---
 
@@ -118,25 +114,17 @@ databases, deployment, and testing.
 
 ### 🩺 Digital Twin Nurse
 
-I'm currently developing **Digital Twin Nurse**, a full-stack portfolio project
-that models nurse fatigue and risk throughout a work shift using a digital twin
-architecture.
+Right now I'm building **Digital Twin Nurse**, a personal project based around modeling nurse fatigue during a work shift.
 
-The project is designed to help me strengthen my skills in:
-
-- Software architecture and domain modeling
-- REST API design
-- PostgreSQL database design
-- Machine learning integration
-- Backend testing and code quality
-- Docker-based development environments
-- Full-stack application development
+The idea came from wanting to build something more complicated than a normal CRUD application. I'm using it to learn more about architecture, API design, PostgreSQL, testing, Docker, full-stack development, and eventually integrating a machine learning model.
 
 ### Tech Stack
 
-**Python • FastAPI • SQLAlchemy • PostgreSQL • Alembic • Docker • scikit-learn • React**
+**Current:** Python • FastAPI • SQLAlchemy • PostgreSQL • Alembic • Docker
 
-The backend is being built as a modular monolith with clear separation between:
+**Planned:** scikit-learn • React
+
+I'm building the backend as a modular monolith and trying to keep each part of the application responsible for one thing:
 
 ```text
 API
@@ -154,46 +142,30 @@ PostgreSQL
 ## 💼 Experience
 
 ### CNM ITS – Web Applications
+
 **Application Developer Apprentice**
 
-I work with the **Web Applications** team under CNM ITS, building and supporting
-web applications, backend services, data workflows, and deployment processes.
+I'm currently an Application Developer Apprentice on the **Web Applications** team at CNM ITS.
+I've gotten to work on internal web applications and backend services using Java, Jakarta EE, Python, JavaScript, React, MongoDB, and MySQL. A lot of the job has also involved figuring out everything around the application. I've worked with Jenkins pipelines, Linux servers, NGINX, WildFly, PM2, deployment, configuration, troubleshooting, and Python scripts for processing data.
 
-My work has included:
-
-- Developing and maintaining **web applications and backend services**
-- Building and consuming **REST APIs**
-- Working with **Java, Jakarta EE, Python, JavaScript, and React**
-- Developing applications backed by **MongoDB, MySQL, and PostgreSQL**
-- Creating and maintaining **Jenkins pipelines**
-- Working with **Linux, NGINX, WildFly, and PM2**
-- Supporting application deployment, configuration, and troubleshooting
-- Building data-processing workflows and automation with Python
-- Working with secure web application concepts including **CORS, rate limiting,
-  HTTP security headers, and common web vulnerabilities**
-- Collaborating with developers, architects, and other ITS teams on application
-  design and implementation
-
-  > CNM uses "DevOps" as a broader organizational umbrella. My team is specifically
-> **Web Applications**, and my role is primarily focused on application development.
->
----
+I've also had to research things like CORS, rate limiting, HTTP security headers, and common web application vulnerabilities while working on applications. One thing that can be confusing from the outside is that CNM places our team under a larger **DevOps** umbrella. At CNM, DevOps is more of a group of teams that fill gaps across ITS. I specifically work on the **Web Applications** team, so most of my work is application development.
 
 ---
 
 ## 🎓 Education & Certifications
 
 ### New Mexico State University
+
 **B.I.C.T. – Information and Communication Technology**  
 **Software Development Concentration**  
-*Expected Graduation: 2027/2028*
+*Expected Graduation: 2027–2028*
 
 ### Central New Mexico Community College
-**Associate of Applied Science – Computer Programming**
 
+**Associate of Applied Science – Computer Programming**  
 **Certificate – Software Development**
 
-CNM's Computer Programming program was later renamed **Software Development**.
+CNM's Computer Programming program was renamed **Software Development** in 2025.
 
 ### Certifications
 
