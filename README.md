@@ -148,3 +148,53 @@ Repositories
 SQLAlchemy
  ↓
 PostgreSQL
+```
+---
+
+## 💼 Experience
+
+### CNM ITS – Web Applications
+**Application Developer Apprentice**
+
+I work with the **Web Applications** team under CNM ITS, building and supporting
+web applications, backend services, data workflows, and deployment processes.
+
+My work has included:
+
+- Developing and maintaining **web applications and backend services**
+- Building and consuming **REST APIs**
+- Working with **Java, Jakarta EE, Python, JavaScript, and React**
+- Developing applications backed by **MongoDB, MySQL, and PostgreSQL**
+- Creating and maintaining **Jenkins pipelines**
+- Working with **Linux, NGINX, WildFly, and PM2**
+- Supporting application deployment, configuration, and troubleshooting
+- Building data-processing workflows and automation with Python
+- Working with secure web application concepts including **CORS, rate limiting,
+  HTTP security headers, and common web vulnerabilities**
+- Collaborating with developers, architects, and other ITS teams on application
+  design and implementation
+
+  > CNM uses "DevOps" as a broader organizational umbrella. My team is specifically
+> **Web Applications**, and my role is primarily focused on application development.
+>
+---
+
+---
+
+## 🎓 Education & Certifications
+
+### New Mexico State University
+**B.I.C.T. – Information and Communication Technology**  
+**Software Development Concentration**  
+*Expected Graduation: 2027/2028*
+
+### Central New Mexico Community College
+**Associate of Applied Science – Computer Programming**
+
+**Certificate – Software Development**
+
+CNM's Computer Programming program was later renamed **Software Development**.
+
+### Certifications
+
+- 🛡️ **CompTIA Security+**
